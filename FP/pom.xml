@@ -19,6 +19,7 @@
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
+            <scope></scope>
 		</dependency>
 		<dependency>
                 <groupId>org.junit.jupiter</groupId>
